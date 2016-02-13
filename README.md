@@ -14,6 +14,7 @@ by this syntax any time call function wrapped to wrapper function
  
 in django you can use this syntax for views required login
  
+ 
 by this module you can wrap whole url into a method like this
 
 Example Usage:
